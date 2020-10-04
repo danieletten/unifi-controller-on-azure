@@ -22,6 +22,10 @@ After you have deployed the ARM template to Azure you'll only need to do 2 thing
 
 ### Access the controller
 
-When the deployment is finished navigate in the Azure portal to the created Resource Group and select your Container Instance.
+When the deployment is finished navigate in the Azure portal to the created Resource Group and select your Container Instance, in this case heyazureguy-2020.
 
-![Resource Group](\images\azure-portal-resource-group)
+![Resource Group](.\images\azure-portal-resource-group.png)
+
+When you have clicked on the Container Instance, you'll see the FQDN of your Unifi Controller. Copy the URL and past this in your browser, make sure that you select port 8080 to reach the setup page. In this case the URL would be [http://heyazureguy.westeurope.azurecontainer.io:8080](#blank) or [https://heyazureguy.westeurope.azurecontainer.io:8443](#blank)
+
+![Resource Group](.\images\azure-portal-container-instance.png)
