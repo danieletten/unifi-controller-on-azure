@@ -23,3 +23,5 @@ After you have deployed the ARM template to Azure you'll only need to do 2 thing
 ### Access the controller
 
 When the deployment is finished navigate in the Azure portal to the created Resource Group and select your Container Instance.
+
+![Resource Group](\images\azure-portal-resource-group)
