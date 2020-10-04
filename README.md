@@ -26,6 +26,12 @@ When the deployment is finished navigate in the Azure portal to the created Reso
 
 ![Resource Group](/images/azure-portal-resource-group.png)
 
-When you have clicked on the Container Instance, you'll see the FQDN of your Unifi Controller. Copy the URL and past this in your browser, make sure that you select port 8080 to reach the setup page. In this case the URL would be [http://heyazureguy.westeurope.azurecontainer.io:8080](#blank) or [https://heyazureguy.westeurope.azurecontainer.io:8443](#blank)
+When you have clicked on the Container Instance, you'll see the FQDN of your Unifi Controller. Copy the URL and past this in your browser, make sure that you select port 8080 to reach the setup page.
 
 ![Resource Group](/images/azure-portal-container-instance.png)
+
+In this case the URL would be [http://heyazureguy.westeurope.azurecontainer.io:8080](#blank) or [https://heyazureguy.westeurope.azurecontainer.io:8443](#blank)
+
+![Unifi Controller setup](/images/setup-unifi-controller.png)
+
+Enjoy your Unifi controller and have a cloudy day!
