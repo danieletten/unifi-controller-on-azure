@@ -72,7 +72,7 @@
                             "volumeMounts": [
                                 {
                                     "name": "azurefile",
-                                    "mountPath": "/unifi/"
+                                    "mountPath": "/config/"
                                 }
                             ]
                         }
